@@ -1,13 +1,15 @@
 // import logo from './logo.svg';
 import './App.css';
-import StateTutorial from './UseEffect/StateTutorial';
+import EffectTutorial from './UseEffect/EffectTutorial';
+
+//import StateTutorial from './UseState/StateTutorial';
 import ReducerTutorial from './UseReducer/ReducerTutorial';
 
 
 function App() {
   return (
     <div className="App">
-        <ReducerTutorial/>
+        <EffectTutorial/>
     </div>
   );
 }

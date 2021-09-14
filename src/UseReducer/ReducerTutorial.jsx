@@ -44,6 +44,6 @@ export default ReducerTutorial;
 // The use Reducer Hook is actually a replacement or an alternative
 // to the use State Hook. This means that they both have the same purpose
 // in the sense that, they allow the user or the developer to create variable
-// when their values are changed the page will re-render to show thos new values
+// when their values are changed the page will re-render to show those new values
 // however there is specific benefit to use the reducer hook is whenever you might
 // deal with very complex state (many states)
